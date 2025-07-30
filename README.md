@@ -71,15 +71,17 @@ My goal is to continue learning and improving my skills as a backend developer, 
 
 ###
 
-<div align="center">
+<p align="center">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=diego422&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+</p>
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=diego422&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+<p align="center">
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=diego422&theme=tokyonight&count_private=true" alt="GitHub Streak" />
+</p>
 
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=diego422&theme=tokyonight&count_private=true" alt="GitHub Streak" />
-
-<!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego422&layout=compact&theme=tokyonight&count_private=true" alt="Top Langs" />
-
-</div>
+<p align="center">
+  <!-- Most Used Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diego422&layout=compact&theme=tokyonight&count_private=true" alt="Top Langs" />
+</p>
