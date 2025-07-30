@@ -45,13 +45,30 @@ My goal is to continue learning and improving my skills as a backend developer, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3 logo" />
- <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5 logo" />
 </div>
 
 ###
 
-<h2 align="left">Contact</h2>
+<h2 align="left">📊 GitHub Stats</h2>
+
+<div align="center">
+
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diego422&show_icons=true&theme=tokyonight)
+
+<!-- Streak Stats -->
+![GitHub Streak](https://streak-stats.demolab.com?user=diego422&theme=tokyonight)
+
+<!-- Most Used Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego422&layout=compact&theme=tokyonight)
+
+</div>
+
+###
+
+<h2 align="left">📬 Contact</h2>
 
 ###
 
@@ -60,8 +77,7 @@ My goal is to continue learning and improving my skills as a backend developer, 
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
   </a>
 
-  <a   href="mailto:diegoherreralopez9@gmail.com?subject=Estoy interesado en tu curriculum ">
+  <a href="mailto:diegoherreralopez9@gmail.com?subject=Estoy interesado en tu curriculum ">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-
 </div>
