@@ -23,7 +23,7 @@ My goal is to continue learning and improving my skills as a backend developer, 
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">💻 Tech Stack:</h2>
 
 ###
 
