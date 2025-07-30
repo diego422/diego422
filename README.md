@@ -51,23 +51,6 @@ My goal is to continue learning and improving my skills as a backend developer, 
 
 ###
 
-<h2 align="left">📊 GitHub Stats</h2>
-
-<div align="center">
-
-<!-- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diego422&show_icons=true&theme=tokyonight)
-
-<!-- Streak Stats -->
-![GitHub Streak](https://streak-stats.demolab.com?user=diego422&theme=tokyonight)
-
-<!-- Most Used Languages -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego422&layout=compact&theme=tokyonight)
-
-</div>
-
-###
-
 <h2 align="left">📬 Contact</h2>
 
 ###
@@ -80,4 +63,23 @@ My goal is to continue learning and improving my skills as a backend developer, 
   <a href="mailto:diegoherreralopez9@gmail.com?subject=Estoy interesado en tu curriculum ">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
+</div>
+
+###
+
+<h2 align="left">📊 GitHub Stats</h2>
+
+###
+
+<div align="center">
+
+<!-- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=diego422&show_icons=true&theme=tokyonight)
+
+<!-- Streak Stats -->
+![GitHub Streak](https://streak-stats.demolab.com?user=diego422&theme=tokyonight)
+
+<!-- Most Used Languages -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diego422&layout=compact&theme=tokyonight)
+
 </div>
