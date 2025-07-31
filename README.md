@@ -8,7 +8,7 @@
 </a>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=diego422&label=Profile%20views&color=blue&style=for-the-badge" alt="Visitor Counter" />
+  <img src="https://hits.sh/github.com/diego422.svg?style=for-the-badge&label=Unique%20Visitors&color=blue" alt="Visitor Counter" />
 </p>
 
 ###
