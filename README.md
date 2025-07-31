@@ -7,11 +7,6 @@
   <p align="left">My LinkedIn</p>
 </a>
 
-<p align="left">
-  <img src="https://hits.sh/diego422/diego422.svg?style=for-the-badge&label=VISITORS&color=blue" alt="Visitor Counter" />
-</p>
-
-
 ###
 
 <h2 align="left">About me</h2>
