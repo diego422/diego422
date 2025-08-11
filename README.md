@@ -19,7 +19,7 @@
 - 🧩 User experience (UX) and accessibility<br>
 - 🚀 I am interested in security, scalability, the use of cloud services, and emerging trends in backend development.<br>
 - 🤝 I enjoy collaborating in multidisciplinary teams to achieve scalable and maintainable solutions.<br>
-My goal is to continue learning and improving my skills as a backend developer, collaborating on challenging projects and helping to create exceptional digital experiences for clients.
+My goal is to continue learning and improving my skills as a backend developer, collaborating on challenging projects and helping to create exceptional digital experiences for clients.<br>
 </p>
 
 ###
