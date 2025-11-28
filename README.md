@@ -46,7 +46,7 @@ My goal is to continue learning and improving my skills as a backend developer, 
   <br>
   <li>
     <strong>📦 Supply Chain – CNE:</strong> Backend + Flutter workflows for incident and shelter management.<br>
-    ➡️ Private / Academic
+    ➡️ Private / Práctica supervisada universitaria 
   </li>
   <br>
   <li>
