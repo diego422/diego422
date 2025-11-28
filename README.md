@@ -41,7 +41,7 @@ My goal is to continue learning and improving my skills as a backend developer, 
 <ul align="left">
   <li>
     <strong>🔐 MFA Authentication Demo:</strong> Multi-factor authentication using Firebase for web and mobile apps.<br>
-    ➡️ <a href="https://github.com/diego422/mfa_mini_demo">Repository</a>
+    ➡️ <a href="[https://github.com/diego422/mfa_mini_demo](https://github.com/diego422/MFA)">Repository</a>
   </li>
   <br>
   <li>
@@ -51,7 +51,7 @@ My goal is to continue learning and improving my skills as a backend developer, 
   <br>
   <li>
     <strong>🍽️ FoodService SDTJ:</strong> API in Node + Prisma + SQL Server for menu and user management.<br>
-    ➡️ <a href="https://github.com/diego422/foodservice-sdtj">Repository</a>
+    ➡️ <a href="[https://github.com/diego422/foodservice-sdtj](https://github.com/diego422/FoodServiceSDTJ)">Repository</a>
   </li>
 </ul>
 
@@ -61,8 +61,9 @@ My goal is to continue learning and improving my skills as a backend developer, 
 
 <ul align="left">
   <li>Six Sigma Yellow Belt</li>
-  <li>Backend Development Certifications (UCR)</li>
-  <li>Java backend & Firebase-related courses</li>
+  <li>JavaScript Essentials 1</li>
+  <li>Scrum Fundamentals Certified (SFC)</li>
+  <li>Análisis y visualización de datos</li>
 </ul>
 
 ###
