@@ -41,7 +41,7 @@ My goal is to continue learning and improving my skills as a backend developer, 
 <ul align="left">
   <li>
     <strong>🔐 MFA Authentication Demo:</strong> Multi-factor authentication using Firebase for web and mobile apps.<br>
-    ➡️ <a href="https://github.com/diego422/MFA)">Repository</a>
+    ➡️ <a href="https://github.com/diego422/MFA">Repository</a>
   </li>
   <br>
   <li>
