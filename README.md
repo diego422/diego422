@@ -118,12 +118,9 @@ My goal is to continue learning and improving my skills as a backend developer, 
 
 <h2 align="left">📊 GitHub Stats</h2>
 
-<p align="left">
-  <img src="https://github-readme-stats-eta-opal-67.vercel.app/api?username=diego422&show_icons=true&theme=tokyonight&count_private=true&commits_year=2025" />
-</p>
 
 <p align="center">
-  <img src="https://github-readme-stats-eta-opal-67.vercel.app/api?username=diego422&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://github-readme-stats-eta-opal-67.vercel.app/api?username=diego422&show_icons=true&theme=tokyonight&count_private=true&commits_year=2025" />
 </p>
 
 <p align="center">
