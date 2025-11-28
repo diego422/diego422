@@ -119,7 +119,6 @@ My goal is to continue learning and improving my skills as a backend developer, 
 <h2 align="left">📊 GitHub Stats</h2>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=diego422&color=blueviolet" />
   <img src="https://img.shields.io/github/followers/diego422?style=flat&color=blue" />
 </p>
 
